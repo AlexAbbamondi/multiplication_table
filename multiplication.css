@@ -1,0 +1,24 @@
+header {
+	text-align: center;
+	padding-bottom: 2em;
+	padding-top: 2em;
+	color: #CD5C5C;
+}
+
+body {
+	background: #FAFAD2
+}
+
+hr {
+	border: solid 3px #F08080;
+	color: #F08080;
+	
+}
+
+footer {
+	text-align: center;
+}
+table {
+	color: #CD5C5C;
+  
+}
